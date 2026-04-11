@@ -1,9 +1,17 @@
 {
   "name": "marn-express-initializer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom project initializer for Code Biruni ecosystem",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Robiu-Sani/marn-express-initializer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Robiu-Sani/marn-express-initializer/issues"
+  },
+  "homepage": "https://marn-express-initializer.vercel.app",
   "bin": {
     "marn-express-initializer": "index.js"
   },
@@ -14,9 +22,22 @@
     "cli",
     "scaffold",
     "mern",
-    "nextjs"
+    "nextjs",
+    "express",
+    "mongodb",
+    "node",
+    "react",
+    "starter-kit",
+    "boilerplate",
+    "project-generator",
+    "automation",
+    "backend-setup",
+    "fullstack",
+    "code-biruni",
+    "api-starter",
+    "scaffolding-tool"
   ],
-  "author": "Code Biruni",
+  "author": "Robius Sani",
   "license": "ISC",
   "dependencies": {
     "commander": "^12.0.0",
