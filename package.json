@@ -1,0 +1,28 @@
+{
+  "name": "marn-express-initializer",
+  "version": "1.0.1",
+  "description": "Custom project initializer for Code Biruni ecosystem",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "marn-express-initializer": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "scaffold",
+    "mern",
+    "nextjs"
+  ],
+  "author": "Code Biruni",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "degit": "^2.8.4",
+    "enquirer": "^2.4.1",
+    "ora": "^8.0.0",
+    "picocolors": "^1.1.1"
+  }
+}
