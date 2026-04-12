@@ -11,12 +11,6 @@ npx marn-express-initializer <your-project-name>
 cd <your-project-name>
 npm run dev
 ```
-
-## Features
-- Fast Cloning: Uses degit to pull templates without heavy git history.
-- Interactive: Clean prompts to name your project.
-- Automated: Automatically updates package.json and installs dependencies.
-
-Developed By
--Created with ❤️ by Robius Sani.
+### project Documentation 
+1. [env setup documentation](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/env-doc.md)
 
