@@ -24,19 +24,19 @@ npm run dev
 
 Follow the guides below for full setup and usage:
 
-* [Project Initializer](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/project-initializer.md)
-* [Environment Setup](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/env-doc.md)
-* [Config Setup](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/config-doc.md)
-* [Module Structure](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/module-doc.md)
-* [Auth Middleware](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/auth-middleware-doc.md)
-* [Custom Middleware](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/middleware-doc.md)
-* [Upload Image](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/uploadimage-doc.md)
-* [Cloudinary Setup](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/upload-in-cloudinary.md)
-* [Router Guide](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/router-doc.md)
-* [Send Email](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/send-email-doc.md)
-* [Email Templates](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/email-templates-doc.md)
-* [Chatbot Module](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/chatbot-doc.md)
-* [Deployment Guide](https://github.com/Robiu-Sani/marn-espress-setup-project/blob/main/deploy-project.md)
+* [Project Initializer](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/project-initializer.md)
+* [Environment Setup](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/env-doc.md)
+* [Config Setup](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/config-doc.md)
+* [Module Structure](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/module-doc.md)
+* [Auth Middleware](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/auth-middleware-doc.md)
+* [Custom Middleware](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/middleware-doc.md)
+* [Upload Image](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/uploadimage-doc.md)
+* [Cloudinary Setup](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/upload-in-cloudinary.md)
+* [Router Guide](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/router-doc.md)
+* [Send Email](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/send-email-doc.md)
+* [Email Templates](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/email-templates-doc.md)
+* [Chatbot Module](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/chatbot-doc.md)
+* [Deployment Guide](https://github.com/Robiu-Sani/marn-express-initializer/blob/main/deploy-project.md)
 
 ---
 ## 🛠️ Scripts
