@@ -1,6 +1,6 @@
 {
   "name": "create-express-easy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Custom project initializer for Code Biruni ecosystem",
   "main": "bin/index.js",
   "type": "module",
